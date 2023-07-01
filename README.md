@@ -2,6 +2,7 @@
 Меня зовут Александр.  
 Я умею создавать различные сайты.  
 Стремлюсь стать frontend разработчиком.  
+[Подробнее](https://alexander-shulginov.github.io/Portfolio/)
 
 Некоторые из моих работ:  
 - [SmartHome](https://alexander-shulginov.github.io/Smart-Home-website/)
