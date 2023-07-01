@@ -1,5 +1,13 @@
 # About Me:
-My name is Alexander.<br>I create various websites.<br>I want to become a front-end developer.<br><br>
+Меня зовут Александр.  
+Я умею создавать различные сайты.  
+Стремлюсь стать frontend разработчиком.  
+
+Некоторые из моих работ:  
+- [SmartHome](https://alexander-shulginov.github.io/Smart-Home-website/)
+- [RosLogistic](https://alexander-shulginov.github.io/RosLogistic-website/)
+- [RMC](https://alexander-shulginov.github.io/RMC-website/)
+- [Gthress](https://alexander-shulginov.github.io/Gthress-website/)
 
 
 # Tech Stack:
