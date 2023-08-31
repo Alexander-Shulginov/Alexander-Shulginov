@@ -8,7 +8,6 @@ Junior Frontend Developer.
 - [SmartHome](https://alexander-shulginov.github.io/Smart-Home-website/)
 - [RosLogistic](https://alexander-shulginov.github.io/RosLogistic-website/)
 - [RMC](https://alexander-shulginov.github.io/RMC-website/)
-- [Gthress](https://alexander-shulginov.github.io/Gthress-website/)
 - [Demo](https://alexander-shulginov.github.io/Demo/index.html)
 
 
