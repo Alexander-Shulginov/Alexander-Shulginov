@@ -4,7 +4,7 @@
 Junior Frontend Developer.  
 [Подробнее](https://alexander-shulginov.github.io/Portfolio/)
 
-Некоторые из моих работ:  
+Некоторые из моих работ:
 - [SmartHome](https://alexander-shulginov.github.io/Smart-Home-website/)
 - [RosLogistic](https://alexander-shulginov.github.io/RosLogistic-website/)
 - [RMC](https://alexander-shulginov.github.io/RMC-website/)
