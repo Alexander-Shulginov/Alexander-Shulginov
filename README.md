@@ -1,6 +1,6 @@
 # About Me: 
-Junior Frontend Developer.
-HTML Верстальщик.
+Junior Frontend Developer.  
+HTML Верстальщик.  
 [Подробнее](https://alexander-shulginov.github.io/Portfolio/)
 
 Некоторые из моих работ:
