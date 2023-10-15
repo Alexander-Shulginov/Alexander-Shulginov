@@ -1,7 +1,6 @@
-# About Me:
-Меня зовут Александр.  
-Junior Frontend Developer.  
-Умею создавать различные сайты.   
+# About Me: 
+Junior Frontend Developer.
+HTML Верстальщик.
 [Подробнее](https://alexander-shulginov.github.io/Portfolio/)
 
 Некоторые из моих работ:
