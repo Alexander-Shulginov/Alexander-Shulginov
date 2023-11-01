@@ -6,8 +6,7 @@ HTML Верстальщик.
 Некоторые из моих работ:
 - [SmartHome](https://alexander-shulginov.github.io/Smart-Home-website/)
 - [DOOM](https://alexander-shulginov.github.io/DOOM/)
-- [RMC](https://alexander-shulginov.github.io/RMC-website/)
-- [Demo](https://alexander-shulginov.github.io/Demo/index.html)
+- [RMC](https://alexander-shulginov.github.io/RMC-website/)  
 - [RosLogistic](https://alexander-shulginov.github.io/RosLogistic-website/)
 
 # Tech Stack:
