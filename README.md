@@ -4,6 +4,7 @@ HTML Верстальщик.
 [Подробнее](https://alexander-shulginov.github.io/Portfolio/)
 
 Некоторые из моих работ:
+- [V-Notes](https://v-notes.tech/)  
 - [SmartHome](https://alexander-shulginov.github.io/Smart-Home-website/)
 - [DOOM](https://alexander-shulginov.github.io/DOOM/)
 - [RMC](https://alexander-shulginov.github.io/RMC-website/)  
