@@ -1,7 +1,7 @@
 # About Me: 
 Frontend Developer.  
 HTML Верстальщик.  
-[Подробнее](https://alexander-shulginov.github.io/Portfolio/)  
+[Подробнее](https://alexander-shulginov-portfolio.netlify.app/)  
 
 # Tech Stack:
 
