@@ -1,12 +1,11 @@
 # About Me: 
 Frontend Developer.  
-HTML Верстальщик.  
 [Подробнее](https://alexander-shulginov-portfolio.netlify.app/)  
 
 # Tech Stack:
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,scss,gulp,ts,vue,nuxtjs,vite,webpack,pinia&perline=6)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,scss,gulp,ts,vue,nuxtjs,vite,webpack,pinia&perline=6)](https://skillicons.dev)  
 
 ### DevOps
 [![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions,linux)](https://skillicons.dev)  
