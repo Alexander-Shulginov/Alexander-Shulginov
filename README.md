@@ -11,6 +11,5 @@ Frontend Developer.
 [![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions,linux)](https://skillicons.dev)  
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Shulginov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Alexander-Shulginov&layout=compact&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Alexander-Shulginov&layout=compact&langs_count=6&theme=dark)
 ---
