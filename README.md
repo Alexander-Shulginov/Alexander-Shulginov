@@ -5,7 +5,7 @@ Frontend Developer.
 # Tech Stack:
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,scss,gulp,ts,vue,nuxtjs,vite,webpack,pinia&perline=6)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,astro,vue,nuxtjs,vite,pinia&perline=5)](https://skillicons.dev)  
 
 ### DevOps
 [![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions,linux)](https://skillicons.dev)  
